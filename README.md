@@ -4,7 +4,7 @@ Open the folder
 
 Click --> Clrl + L
 
-Enter --> cmd and press Enter
+Type --> cmd and press Enter
 
 In cmd Enter :-
  
