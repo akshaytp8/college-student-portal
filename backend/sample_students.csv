@@ -1,0 +1,4 @@
+admission_no,name,email,phone,department_code,course,semester,academic_year
+MCA2026-101,Sample Student One,sample101@student.demo,9876500101,MCA,MCA,1,2026-27
+BCA2026-102,Sample Student Two,sample102@student.demo,9876500102,BCA,BCA,3,2026-27
+BCOM2026-103,Sample Student Three,sample103@student.demo,9876500103,BCOM,BCOM,2,2026-27

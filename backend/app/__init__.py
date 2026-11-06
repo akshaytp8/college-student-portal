@@ -1,0 +1,1 @@
+"""CampusOS backend application package."""
